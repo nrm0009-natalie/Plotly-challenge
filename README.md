@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Plotly Challenge
 
 The goal of this project was to use JavaScript to present interactive visualizations of belly button biodiversity data within a web page. The baseline data was provided in JSON format, and therefore D3 was used to import and process the data, while Plotly was used to generate the required visualizations.
@@ -20,5 +21,4 @@ The goal of this project was to use JavaScript to present interactive visualizat
 - Repeat steps to generate charts and graphs for the currently selected sample ID number.
 
 ## Website
-
 https://nrm0009-natalie.github.io/Plotly-challenge/
