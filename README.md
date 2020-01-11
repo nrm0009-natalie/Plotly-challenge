@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+# Plotly Challenge
 
-You can use the [editor on GitHub](https://github.com/nrm0009-natalie/Plotly-challenge/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+The goal of this project was to use JavaScript to present interactive visualizations of belly button biodiversity data within a web page. The baseline data was provided in JSON format, and therefore D3 was used to import and process the data, while Plotly was used to generate the required visualizations.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Questions:
 
-### Markdown
+- What is the demographic information of the individual associated with each specific belly button sample?
+- What are the top ten Operational Taxonomic Units (OTUs) by concentration in each specific belly button sample?
+- What are the concentrations of all the Operational Taxonomic Units (OTUs) in each specific belly button sample?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Steps:
 
-```markdown
-Syntax highlighted code block
+- Import the belly button sample data from the JSON file and create a function for web page initialization.
+- Extract each sample ID number and append it to the HTML dropdown menu container.
+- Extract and process the demographic information and OTU data for the first sample.
+- Append demographic information for the first sample to the appropriate HTML table.
+- Generate a bar chart of the top ten OTUs by concentration in the first sample and connect it to the appropriate HTML container.
+- Generate a bubble chart of the concentrations of all of the OTUs in the first sample and connect it to the appropriate HTML container.
+- Create a function to monitor and extract the currently selected sample ID number from the HTML dropdown menu.
+- Repeat steps to generate charts and graphs for the currently selected sample ID number.
 
-# Header 1
-## Header 2
-### Header 3
+## Website
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nrm0009-natalie/Plotly-challenge/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+https://nrm0009-natalie.github.io/Plotly-challenge/
