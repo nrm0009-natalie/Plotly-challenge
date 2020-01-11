@@ -4,7 +4,7 @@ Plotly Challenge
 
 The goal of this project was to use JavaScript to present interactive visualizations of belly button biodiversity data within a web page. The baseline data was provided in JSON format, and therefore D3 was used to import and process the data, while Plotly was used to generate the required visualizations.
 
-Questions
+Questions:
 
 
 
@@ -13,7 +13,11 @@ What are the top ten Operational Taxonomic Units (OTUs) by concentration in each
 What are the concentrations of all the Operational Taxonomic Units (OTUs) in each specific belly button sample?
 
 
-Steps
+Steps:
+
+
+
+
 Import the belly button sample data from the JSON file and create a function for web page initialization.
 Extract each sample ID number and append it to the HTML dropdown menu container.
 Extract and process the demographic information and OTU data for the first sample.
