@@ -3,11 +3,18 @@
 
 The goal of this project was to use JavaScript to present interactive visualizations of belly button biodiversity data within a web page. The baseline data was provided in JSON format, and therefore D3 was used to import and process the data, while Plotly was used to generate the required visualizations.
 
+## Technologies
+
+* JavaScript
+* D3
+* HTML
+* Plotly
+
 ## Questions:
 
-- What is the demographic information of the individual associated with each specific belly button sample?
-- What are the top ten Operational Taxonomic Units (OTUs) by concentration in each specific belly button sample?
-- What are the concentrations of all the Operational Taxonomic Units (OTUs) in each specific belly button sample?
+- Represent the demographic information of the individual associated with each specific belly button sample.
+- In a horizontal bar chart, represent Operational Taxonomic Units (OTUs) by concentration in each specific belly button sample.
+- In a bubble chart, present the concentrations of all the Operational Taxonomic Units (OTUs) in each specific belly button sample.
 
 ## Steps:
 
@@ -22,3 +29,8 @@ The goal of this project was to use JavaScript to present interactive visualizat
 
 ## Website
 https://nrm0009-natalie.github.io/Plotly-challenge/
+
+## Web Page Screenshots:
+
+<img src = https://github.com/nrm0009-natalie/Plotly-challenge/blob/master/website_image1>
+<img src = https://github.com/nrm0009-natalie/Plotly-challenge/blob/master/website_image2>
