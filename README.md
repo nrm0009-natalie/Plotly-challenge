@@ -32,5 +32,5 @@ https://nrm0009-natalie.github.io/Plotly-challenge/
 
 ## Web Page Screenshots:
 
-<img src = https://github.com/nrm0009-natalie/Plotly-challenge/blob/master/website_image1>
-<img src = https://github.com/nrm0009-natalie/Plotly-challenge/blob/master/website_image2>
+<img src = https://github.com/nrm0009-natalie/Plotly-challenge/blob/master/website_image1.png>
+<img src = https://github.com/nrm0009-natalie/Plotly-challenge/blob/master/website_image2.png>
